@@ -10,3 +10,4 @@ The instructions:
         Add items
         Remove items
         Display cart items
+link to the shopping cart: https://oop-egxk77alf-elizabeth-wanguis-projects.vercel.app/
