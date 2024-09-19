@@ -1,0 +1,44 @@
+body{
+    background-color:  #f6f2f2;
+}
+.product-image {
+    height: 200px; 
+    object-fit: cover; 
+}
+
+.product-card .card {
+    height: 100%; 
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-card {
+    margin-bottom: 20px;
+}
+
+.product-card:hover {
+    transform: scale(1.03);
+    transition: transform 0.3s;
+}
+
+.form-control {
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+.card-header {
+    border-bottom: 1px solid #ddd;
+}
+
+.card-footer {
+    border-top: 1px solid #ddd;
+}
